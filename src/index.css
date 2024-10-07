@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+ #root{
+  width: 100% !important ;
+  font-family: "Roboto Slab", serif;
+}
+body{
+  @apply bg-gray-950;
+}
+
